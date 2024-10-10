@@ -2,6 +2,6 @@ package pp
 
 import "fmt"
 
-func ppp() {
+func PPP() {
 	fmt.Println("ppp...")
 }
